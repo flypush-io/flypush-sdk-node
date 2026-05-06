@@ -1,6 +1,6 @@
 {
   "name": "@flypush/node",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "FlyPush Node.js server SDK — send push notifications from your backend",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
